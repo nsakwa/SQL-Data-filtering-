@@ -1,4 +1,4 @@
---The WHERE clause in SQL serves as a query for filtering data in a database table. It defines specific conditions that rows must satisfy to be included in the results of a query.Here is a simple:--
+--The WHERE clause in SQL serves as a query for filtering data in a database table. It defines --specific conditions that rows must satisfy to be included in the results of a query.Here is a simple:
 
 SELECT * FROM computer science WHERE programming = 'JavaScript';
 
